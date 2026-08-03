@@ -1,4 +1,4 @@
-# 🎧 ZenReader: High-Velocity Audio Revision Engine
+# 🎧 ZenReader: High Velocity Audio Engine
 
 [![Download Executable](https://img.shields.io/badge/Download-ZenReader--v1.0.exe-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Atharv-wagh/Zen_Reader/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
