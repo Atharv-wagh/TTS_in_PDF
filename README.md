@@ -1,4 +1,4 @@
-# 🎧 ZenReader: High-Velocity Audio Revision Engine
+# 🎧 ZenReader: High-Velocity PDF reading Engine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Integration](https://img.shields.io/badge/Edge_TTS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
