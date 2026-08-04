@@ -6,7 +6,7 @@
 
 
 <img width="322" height="62" alt="Screenshot 2026-08-04 145848" src="https://github.com/user-attachments/assets/f2a45672-a400-4773-b58b-8d0339f80e30" />
-
+While running the pdf reader and also the tts locally at once V/S Microsoft Edge pdf reader and tts 
 
 ## ⚡ Quick Start (No Setup Required)
 Want to use TTS_in_PDF immediately without touching any code?
