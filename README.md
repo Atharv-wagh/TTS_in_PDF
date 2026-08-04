@@ -1,6 +1,6 @@
 # 🎧 TTS_in_PDF: High Velocity Audio Engine
 
-[![Download Executable](https://img.shields.io/badge/Download-TTS_in_PDF--v1.0.exe-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Atharv-wagh/TTS_in_PDF/releases/latest)
+[![Download Executable](https://img.shields.io/badge/Download-TTS_in_PDF--v2.47.exe-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Atharv-wagh/TTS_in_PDF/releases/latest)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM_Usage-~1_GB-blueviolet?style=for-the-badge)
 
