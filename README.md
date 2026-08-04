@@ -4,6 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM_Usage-~1_GB-blueviolet?style=for-the-badge)
 
+
+<img width="322" height="62" alt="Screenshot 2026-08-04 145848" src="https://github.com/user-attachments/assets/f2a45672-a400-4773-b58b-8d0339f80e30" />
+
+
 ## ⚡ Quick Start (No Setup Required)
 Want to use TTS_in_PDF immediately without touching any code?
 1. Download **[TTS_in_PDF-v1.0-Windows.zip](https://github.com/Atharv-wagh/TTS_in_PDF/releases/latest)** from the Releases section.
